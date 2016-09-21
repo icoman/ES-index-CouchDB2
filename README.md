@@ -4,6 +4,8 @@ A small script written in [Python](https://www.python.org/) used to index a [Cou
 
 The ideea of this script is inspired from [couchdb rivers](https://github.com/elastic/elasticsearch-river-couchdb).
 
+&#x1F53A; The script is not well tested, I just adapted in a few hours [the script for CouchDB 1.x](https://github.com/icoman/ES-index-CouchDB1).
+
 Start Indexing database db1:
 
 ![Start Indexing db1](http://rainbowheart.ro/static/uploads/1/2016/9/esindexcouchdb2x1.jpg)

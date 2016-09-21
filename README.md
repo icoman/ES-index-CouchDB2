@@ -1,6 +1,6 @@
 # Index CouchDB with Elasticsearch
 
-A small script written in [Python](https://www.python.org/) used to index a [CouchDB 2.x](http://couchdb.apache.org/) database with [Elasticsearch](https://www.elastic.co/)  - [blog announcement](http://rainbowheart.ro/450).
+A small script written in [Python](https://www.python.org/) used to index a [CouchDB 2.x](http://couchdb.apache.org/) database with [Elasticsearch](https://www.elastic.co/)  - [blog announcement](http://rainbowheart.ro/498).
 
 The ideea of this script is inspired from [couchdb rivers](https://github.com/elastic/elasticsearch-river-couchdb).
 
